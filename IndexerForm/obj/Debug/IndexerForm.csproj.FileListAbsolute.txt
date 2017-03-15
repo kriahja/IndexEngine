@@ -1,0 +1,15 @@
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\IndexerForm.exe.config
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\IndexerForm.exe
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\IndexerForm.pdb
+C:\Computer Science\IndexerForm\IndexerForm\obj\Debug\IndexerForm.csprojResolveAssemblyReference.cache
+C:\Computer Science\IndexerForm\IndexerForm\obj\Debug\IndexerForm.Properties.Resources.resources
+C:\Computer Science\IndexerForm\IndexerForm\obj\Debug\IndexerForm.csproj.GenerateResource.Cache
+C:\Computer Science\IndexerForm\IndexerForm\obj\Debug\IndexerForm.exe
+C:\Computer Science\IndexerForm\IndexerForm\obj\Debug\IndexerForm.pdb
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\DAL.dll
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\EntityFramework.dll
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\DAL.pdb
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\EntityFramework.xml
+C:\Computer Science\IndexerForm\IndexerForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Computer Science\IndexerForm\IndexerForm\obj\Debug\IndexerForm.IndexWindow.resources

@@ -1,0 +1,10 @@
+C:\Computer Science\IndexerForm\DAL\bin\Debug\DAL.dll.config
+C:\Computer Science\IndexerForm\DAL\bin\Debug\DAL.dll
+C:\Computer Science\IndexerForm\DAL\bin\Debug\DAL.pdb
+C:\Computer Science\IndexerForm\DAL\bin\Debug\EntityFramework.dll
+C:\Computer Science\IndexerForm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Computer Science\IndexerForm\DAL\bin\Debug\EntityFramework.xml
+C:\Computer Science\IndexerForm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Computer Science\IndexerForm\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Computer Science\IndexerForm\DAL\obj\Debug\DAL.dll
+C:\Computer Science\IndexerForm\DAL\obj\Debug\DAL.pdb
